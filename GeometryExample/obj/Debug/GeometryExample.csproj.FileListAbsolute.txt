@@ -1,0 +1,8 @@
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\bin\Debug\GeometryExample.exe.config
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\bin\Debug\GeometryExample.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\bin\Debug\GeometryExample.pdb
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\obj\Debug\GeometryExample.exe
+C:\Users\os\OneDrive\Code\C#\Demo2\GeometryExample\obj\Debug\GeometryExample.pdb
